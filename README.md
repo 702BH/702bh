@@ -42,6 +42,13 @@ The goal of this project was to challenge myself to implement an algorithm from 
 👉 [Project overview & design notes](https://github.com/702BH/MarchingSqauresTerrainV1/blob/main/README.md)
 
 
+### 🎮 League of Legends Data Processing pipeline in R
+A set of functions written in R to process API data related to recent games. 
+These scripts normalize raw match data into structured tables, including timeline processing and game-level transformations.
+
+👉 [Project overview & design notes](https://github.com/702BH/LoL_ProGame_Project)
+
+
 ## Learning resources I have worked through and recommend:
 [The Nature of Code](https://natureofcode.com/)
 - Physics and particle systems from scratch
