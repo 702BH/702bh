@@ -25,3 +25,16 @@ A from-scratch implementation of multiple interacting subsystems inspired by
 The goal of this project was to build "AI" agents capable of perceiving the environment and making decisions.
 
 👉 [Project overview & design notes](https://github.com/702BH/GameAIProjects/blob/main/aiforgamesprojects/ProgrammingGameAIByExample/Raven/README.md)
+
+
+### 🌍 Marching Sqaures Procedural Terrain destruction
+Created a procedural terrain generation in GDScript and the Godot engine. The terrain is generated using the marching sqaures algorithm and also includes an optimised chunking system and player interaction for terrain destruction. 
+
+**Key areas of work:**
+- Marching squares algorithm implementation
+- optimised chunking system for large scale worlds
+- player interaction for terrain destruction
+- custom ore generation to spawn ore deposits in the terrain
+
+The goal of this project was to challenge myself to implement an algorithm from scratch using resources and then extend with my own functionality.
+👉 [Project overview & design notes](https://github.com/702BH/MarchingSqauresTerrainV1/blob/main/README.md)
