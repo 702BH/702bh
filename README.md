@@ -24,5 +24,4 @@ A from-scratch implementation of multiple interacting subsystems inspired by
 
 The goal of this project was to build "AI" agents capable of perceiving the environment and making decisions.
 
-👉 [Project overview & design notes]
-(https://github.com/702BH/GameAIProjects/blob/main/aiforgamesprojects/ProgrammingGameAIByExample/Raven/README.md)
+👉 [Project overview & design notes](https://github.com/702BH/GameAIProjects/blob/main/aiforgamesprojects/ProgrammingGameAIByExample/Raven/README.md)
