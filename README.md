@@ -26,8 +26,9 @@ The goal of this project was to build "AI" agents capable of perceiving the envi
 
 👉 [Project overview & design notes](https://github.com/702BH/GameAIProjects/blob/main/aiforgamesprojects/ProgrammingGameAIByExample/Raven/README.md)
 
+---
 
-### 🌍 Marching Sqaures Procedural Terrain destruction
+### 🌍 Marching Squares Procedural Terrain destruction
 Created a procedural terrain generation in GDScript and the Godot engine. The terrain is generated using the marching sqaures algorithm and also includes an optimised chunking system and player interaction for terrain destruction. 
 
 **Key areas of work:**
